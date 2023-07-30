@@ -1,2 +1,2 @@
-# Red-Minecraft
+# Red Minecraft
 THE minecraft mod
